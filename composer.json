@@ -1,0 +1,20 @@
+{
+    "name": "frostiede/silex-project",
+    "require": {
+        "silex/silex": "^2.0",
+        "twig/twig": "^1.26",
+        "monolog/monolog": "^1.21",
+        "saxulum/config-service-provider": "^2.0",
+        "frostiede/silex-version-serviceprovider": "^1.0",
+        "frostiede/silex-assetic-serviceprovider": "^1.0",
+        "frostiede/silex-environment-serviceprovider": "^1.0",
+        "knplabs/console-service-provider": "^2.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marcel Marnitz",
+            "email": "marcelmarnitz@googlemail.com"
+        }
+    ]
+}
