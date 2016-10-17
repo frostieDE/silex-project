@@ -1,6 +1,8 @@
 {
     "name": "frostiede/silex-project",
+    "type": "project",
     "require": {
+        "php": ">=5.6",
         "silex/silex": "^2.0",
         "twig/twig": "^1.26",
         "monolog/monolog": "^1.21",
